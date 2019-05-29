@@ -25,11 +25,11 @@ sidebar-avatar: /img/avatar_p11179162.jpg      # use absolute URL, seeing it's u
 # SNS settings社交账号
 RSS: false
 # weibo_username:
-zhihu_username:    fedemo
-github_username:    FeDemo
+zhihu_username:    clou2dream
+github_username:    clou2dream
 # facebook_username:
-twitter_username:   Fedemo10
-# coding_username: fedemo
+twitter_username:   clou2dream
+# coding_username: clou2dream
 
 
 
@@ -63,11 +63,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: '75ef4c0ecfb2cd85a8f0'    #生成的clientID
-  clientSecret: 'b51aa6b7351f3b3b7a0940714af8489fddb5f905'   #同上
+  clientID: 'fb2524f20e2f7d78506c'    #生成的clientID
+  clientSecret: 'eeb55a2c4b9a489f0a5270c03f0c78b1328a52c9'   #同上
   repo: img_gitalk    #仓库名称
-  owner: FeDemo    #github用户名
-  admin: FeDemo
+  owner: clou2dream    #github用户名
+  admin: clou2dream
 
 
 
@@ -100,10 +100,10 @@ service-worker: true
 # Friends好友链接
 friends: [
     {
-        title: "Fe Blog",
-        href: "https://fedemo.top/"
+        title: "clou2dream Blog",
+        href: "https://clou2dream.github.io/"
     },{
-        title: "flysnow",
+        title: "flysnow Blog",
         href: "https://www.flysnow.org/"
     }
 ]
