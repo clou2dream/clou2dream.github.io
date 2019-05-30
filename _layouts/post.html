@@ -70,7 +70,7 @@ layout: default
               {% if site.author==page.author %}
                   <blockquote><p>版权声明</p></blockquote>
                   <p>本文为博主<strong>{{page.author}}</strong>原创文章，转载请注明出处
-                      <a href="{{ page.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.title}}">
+                      <a href="{{ page.url | prepend: site.baseurl | replace: '//', '/' }}" style="word-wrap:break-word;" data-toggle="tooltip" data-placement="top" title="{{page.title}}">
                           {{ page.url | prepend: site.url | replace: '//', '/' }}
                       </a>
                   </p>
