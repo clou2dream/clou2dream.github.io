@@ -7,7 +7,7 @@ description: "Hey，我是 clou2dream，一只 JAVA 程序猿," #网站介绍
 keyword: "clou2dream 的博客,GitHub,博客,Blog,JAVA" #关键词
 url: "https://clou2dream.github.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "blog" # you code repository
+github_repo: "https://github.com/clou2dream/clou2dream.github.io.git" # you code repository
 author: clou2dream
 
 # 是否托管在Coding_Pages
